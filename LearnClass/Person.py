@@ -22,4 +22,4 @@ if __name__ == "__main__":
     print(name)
     her_color = girl.color("white")
     print(her_color)
-    
+
